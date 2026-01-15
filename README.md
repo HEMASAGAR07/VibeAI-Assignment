@@ -152,7 +152,10 @@ This project demonstrates:
 - Correct PEFT usage under low compute  
 - Honest reporting of results  
 - Understanding of overfitting and evaluation variance  
-- Alignment with EQ-Bench-style empathy evaluation  
+- Alignment with EQ-Bench-style empathy evaluation
+
+
+“Due to compute and runtime constraints, I am unable to run an additional multi-task SFT phase with auxiliary emotion and strategy heads. Instead, I focused on a strong LM-only SFT baseline with rigorous EQ-Bench evaluation. I outline the auxiliary-head formulation and loss in the design section as future work.”
 
 ### 🔔 Assignment Submission
 Tagging reviewer: @ahan-2000
