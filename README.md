@@ -154,4 +154,5 @@ This project demonstrates:
 - Understanding of overfitting and evaluation variance  
 - Alignment with EQ-Bench-style empathy evaluation  
 
-Designed to be **educational, reproducible, and assignment-compliant**.
+### 🔔 Assignment Submission
+Tagging reviewer: @ahan-2000
